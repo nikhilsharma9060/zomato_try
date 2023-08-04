@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 60px;
+    background-color: aliceblue;
+}
+.logo{
+    height: 15vh;
+    margin-left: 2vw;
+    position: relative;
+    bottom: 30px;
+}
+.odrbtn{
+    background-image: linear-gradient(
+    to right,
+    #ff512f 0%,
+    #dd2476 51%,
+    #ff512f 100%)
+}
